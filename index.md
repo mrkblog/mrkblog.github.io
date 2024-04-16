@@ -3,7 +3,9 @@
 I tend to forget about cool (to me) things I've thought about, so this is a platform for me to collect them.
 
 I also like sharing with people these cool (to me) things and discussing them, so this serves that purpose too.
+
 ****
+
 Topics I need to convert from my brain to text:
 1. **Islam (or any religion) For the Logical Mind**: My friend and I watched a Neil deGrasse Tyson video which helped me overcome the fundamental blocker for me being more religious; how logic and religion mix.
 2. **Food Optimization: How I Plan my Meals**: Recently moved far from home, which gave me full end-to-end control over my meal planning. It's a perfect problem to be solved using optimization techniques.
