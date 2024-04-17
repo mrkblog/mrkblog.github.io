@@ -1,1 +1,1 @@
-# [go to](mrkblog.github.io)
+# mrkblog.github.io
