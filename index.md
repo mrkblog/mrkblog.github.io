@@ -1,8 +1,8 @@
 
 ## What is this?
-I tend to forget about cool (to me) things I've thought about, so this is a platform for me to collect them.
+I tend to forget about cool (to me) things I've thought about so this is a platform for me to collect them.
 
-I also like sharing with people these cool (to me) things and discussing them, so this serves that purpose too.
+I also like sharing these cool (to me) things with people and discussing them, so this serves that purpose too.
 
 ****
 
@@ -13,9 +13,9 @@ Topics I need to convert from my brain to text:
 4. **Small Rule to Follow At Traffic Lights to Speed Up Traffic**: If everyone starts moving as soon as the light turns green (rather than waiting for the car in front of you), traffic will move like one big block rather than a delayed, incredibly slow one-by-one flow.
 5. **How do EVs know to turn on brake lights**: Normal cars have a physical brake sensor, but EVs with one-pedal driving don't.
 6. **Differences between Sikhism and Islam**: Have a Sikh friend and we talk about religion frequently; there are some pretty interesting differences between Islam and Sikhism.
-7. **Breaking a World Record**: Lot of work to be done here, but I have a plan to try to be the fastest to visit all 48 lower mainland US states in a car. Current best is 86 hours.
-8. **Historical Context of Israel/Palestine Issue**: I read some interesting literature on the topic, and I want to summarize in a longer-than-bullet point format. It puts into context a lot of actions from the US today, Iran's involvement and such.
-9. **Apps I would Pay For**: The main one is a daily activity tracking app which automatically runs correlation analyses between all activities tracked and finds those with significant correlation. Then, tell me something like "The days you eat more than 2300 calories, you  are 27% less likely to pray Maghrib". _Problem:_ p-values can't be used for significance naively. This is because with a 5% threshold, if we track 100 things then we will just randomly get 5\*5 out of those 100\*100 pairs having significant correlations.
-10. **One Scene That Changed My Perspective on the World:** The drive-thru scene in _The Big Sick_ had a pretty big impact on me on my perspective on the world.
-11. **Poetry**: Usually sound way better in my head. Also have to figure out how to write in Urdu on Markdown.
-
+7. **How To Spend Time as a Muslim - An Axiomatic Approach:** If humility is an axiom of Islam, then all actions should be done to maximize our humility. But then how do we justify doing a job? Have some cool thoughts here!
+8. **Breaking a World Record**: Lot of work to be done here, but I have a plan to try to be the fastest to visit all 48 lower mainland US states in a car. Current best is 86 hours.
+9. **Historical Context of Israel/Palestine Issue**: I read some interesting literature on the topic, and I want to summarize in a longer-than-bullet point format. It puts into context a lot of actions from the US today, Iran's involvement and such.
+10. **Apps I would Pay For**: The main one is a daily activity tracking app which automatically runs correlation analyses between all activities tracked and finds those with significant correlation. Then, tell me something like "The days you eat more than 2300 calories, you  are 27% less likely to pray Maghrib". _Problem:_ p-values can't be used for significance naively. This is because with a 5% threshold, if we track 100 things then we will just randomly get 5\*5 out of those 100\*100 pairs having significant correlations.
+11. **One Scene That Changed My Perspective on the World:** The drive-thru scene in _The Big Sick_ had a pretty big impact on me on my perspective on the world.
+12. **Poetry**: Usually sound way better in my head. Also have to figure out how to write in Urdu on Markdown.
